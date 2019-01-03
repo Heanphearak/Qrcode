@@ -32,4 +32,5 @@
 	// $db->post[] = [
 	//     'title' => 'Hello world 2'
 	// ];
+	echo "Hello Github";
  ?>
