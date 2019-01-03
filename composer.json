@@ -1,0 +1,7 @@
+{
+    "name": "students/test",
+    "description": "This is Create/Read/Update/Delete easily in DataBase",
+    "require": {
+        "simple-crud/simple-crud": "^6.12"
+    }
+}
